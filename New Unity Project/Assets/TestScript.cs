@@ -9,4 +9,6 @@ public class TestScript : MonoBehaviour
     //마스터에서 머지 준비
 
     //변경사항1
+
+    //잘못된 커밋
 }
