@@ -10,5 +10,5 @@ public class TestScript : MonoBehaviour
 
     //변경사항1
 
-    //잘못된 커밋
+    //커밋 취소
 }
