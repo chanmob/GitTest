@@ -14,5 +14,5 @@ public class TestScript : MonoBehaviour
 
     //브랜치 생성
    
-    //리베이스 전
+    //리베이스
 }
