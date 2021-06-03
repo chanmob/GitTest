@@ -13,4 +13,6 @@ public class TestScript : MonoBehaviour
     //커밋 취소
 
     //브랜치 생성
+    //머지
+    //머지
 }
