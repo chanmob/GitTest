@@ -8,12 +8,7 @@ public class DEF : MonoBehaviour
     void Start()
     {
         gameObject.SetActive(false);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        gameObject.name = "DEF";
     }
 
     private void Awake()
