@@ -7,7 +7,7 @@ public class ABC : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        gameObject.SetActive(true);
+		//수정됨
     }
 
     // Update is called once per frame
