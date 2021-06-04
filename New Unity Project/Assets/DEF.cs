@@ -20,4 +20,19 @@ public class DEF : MonoBehaviour
     {
         gameObject.SetActive(true);
     }
+
+    void A()
+    {
+        Debug.Log("A");
+    }
+
+    void B()
+    {
+        Debug.LogWarning("B");
+    }
+
+    void C()
+    {
+        Debug.LogError("C");
+    }
 }
