@@ -7,6 +7,7 @@ public class DEF : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //충돌지점
         //충돌
         gameObject.SetActive(false);
         gameObject.name = "DEF";

@@ -14,6 +14,7 @@ public class ABC : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //여기도 충돌   
-    }
+        
+        //충돌지점
+        //여기도 충돌       }
 }
