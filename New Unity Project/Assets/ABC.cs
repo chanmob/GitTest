@@ -7,13 +7,14 @@ public class ABC : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-		//태그 테스트
+        //Stash 임시 보관
+        //태그 테스트
     }
 
     // Update is called once per frame
     void Update()
-    {
-        
+    {        
         //충돌지점
-        //여기도 충돌       }
+        //여기도 충돌
+    }
 }
