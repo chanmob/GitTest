@@ -8,6 +8,7 @@ public class ABC : MonoBehaviour
     void Start()
     {
 		//태그 테스트
+        //abc 충돌
     }
 
     // Update is called once per frame
