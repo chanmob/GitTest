@@ -9,12 +9,16 @@ public class ABC : MonoBehaviour
     {
         //Stash 임시 보관
         //태그 테스트
+        //abc 충돌
+
+        //abc
+        //abc
     }
 
     // Update is called once per frame
     void Update()
     {        
         //충돌지점
-        //여기도 충돌
+        //여기도 충돌      
     }
 }
