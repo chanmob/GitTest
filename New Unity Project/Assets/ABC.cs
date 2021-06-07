@@ -9,6 +9,9 @@ public class ABC : MonoBehaviour
     {
 		//태그 테스트
         //abc 충돌
+
+        //abc
+        //abc
     }
 
     // Update is called once per frame
@@ -16,5 +19,6 @@ public class ABC : MonoBehaviour
     {
         
         //충돌지점
-        //여기도 충돌       }
+        //여기도 충돌      
+    }
 }
