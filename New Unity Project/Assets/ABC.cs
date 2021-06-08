@@ -12,7 +12,7 @@ public class ABC : MonoBehaviour
         //abc 충돌
 
         //abc
-        //abc
+        //abcabsdvbsfadasdsa
     }
 
     // Update is called once per frame
@@ -21,6 +21,9 @@ public class ABC : MonoBehaviour
         //abca
         //abca
         //abc
+        //def
+        //def
+        //def
         //충돌지점
         //여기도 충돌      
     }
