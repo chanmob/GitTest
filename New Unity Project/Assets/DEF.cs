@@ -8,7 +8,7 @@ public class DEF : MonoBehaviour
     void Start()
     {
         //충돌지점
-        //충돌
+        //충돌asdasdasdasd
         gameObject.SetActive(false);
         gameObject.name = "DEF";
     }
