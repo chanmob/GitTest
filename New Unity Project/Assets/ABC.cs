@@ -5,6 +5,6 @@ using UnityEngine;
 public class ABC : MonoBehaviour
 {
     //AAA성공
-    //BBB
+    //BBB실패
     //CCC
 }
