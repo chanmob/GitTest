@@ -6,5 +6,5 @@ public class ABC : MonoBehaviour
 {
     //AAA성공
     //BBB
-    //CCC
+    //CCC성공
 }
