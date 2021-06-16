@@ -7,6 +7,4 @@ public class ABC : MonoBehaviour
     //AAA
     //BBB
     //CCC
-
-    //오류가 있는 코드
 }
