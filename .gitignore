@@ -66,3 +66,8 @@ MeasureFile
 /JoyFitnessAndroid/awrtc_browser.csproj
 /JoyFitnessAndroid/awrtc_editor.csproj
 /JoyFitnessAndroid/wrtc.csproj
+
+/abc/**/*.bmp
+TODO?.txt
+[01].txt
+test*
